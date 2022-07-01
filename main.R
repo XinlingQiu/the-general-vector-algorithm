@@ -20,6 +20,5 @@ geps<-function(theta,threshold){
       row=row-1
     }
   }
-  return(theta[1,])#or return sequence or anyone of sequence
 }
 #theta is a EM sequence
